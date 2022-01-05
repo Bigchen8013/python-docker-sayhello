@@ -56,11 +56,13 @@ py39-docker:v1.0.0
 ## 三、程序运行截图
 初始界面，生成一条假消息：
 ![image](https://github.com/Bigchen8013/python-docker-sayhello/blob/master/images/ini.png)
+
 填写留言信息：
 ![image](https://github.com/Bigchen8013/python-docker-sayhello/blob/master/images/message.png)
 
-提交留言后
+提交留言后：
 ![image](https://github.com/Bigchen8013/python-docker-sayhello/blob/master/images/submit.png)
+
 提交后的所有信息显示：
 ![image](https://github.com/Bigchen8013/python-docker-sayhello/blob/master/images/all_result.png)
 
