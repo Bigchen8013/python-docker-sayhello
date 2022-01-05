@@ -54,6 +54,8 @@ py39-docker:v1.0.0
 ```
 
 ## 三、程序运行截图
+程序运行后在http://127.0.0.1:5000/进行查看
+
 初始界面，生成一条假消息：
 ![image](https://github.com/Bigchen8013/python-docker-sayhello/blob/master/images/ini.png)
 
